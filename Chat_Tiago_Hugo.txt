@@ -1,0 +1,3 @@
+T - Tiago e H - Hugo
+
+T: Olá Hugo! :) Acabei de criar esse repositório git para que possamos fazer o exercício da disciplina de infraestrutura computacional.
