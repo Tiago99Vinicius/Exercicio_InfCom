@@ -2,3 +2,4 @@ T - Tiago e H - Hugo
 
 T: Olá Hugo! :) Acabei de criar esse repositório git para que possamos fazer o exercício da disciplina de infraestrutura computacional.
 T: A mensagem anterior e está agora foram feitas direto na branch main.
+T: Já está terceira mensagem eu fiz na minha branch pessoal de nome "tvssantana" e irei fazer um merge para a main, caso consiga visualizá-la puxando da main, me mande uma confirmação.
